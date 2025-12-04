@@ -34,6 +34,9 @@
 ## MODEL GRAPH
 <img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
 <img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
+## DESIGN
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/90242a9c-6f29-439a-a045-6f5c03af51f1" />
+
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
